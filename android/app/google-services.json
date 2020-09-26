@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "368495804263",
+    "firebase_url": "https://anychat-e1a3e.firebaseio.com",
+    "project_id": "anychat-e1a3e",
+    "storage_bucket": "anychat-e1a3e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368495804263:android:1feadd9d70b4b7e72cb9c2",
+        "android_client_info": {
+          "package_name": "com.example.any_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "368495804263-qum9j47ink02n4brr8hsud0sej47pnik.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-iN7yjg0I9rjvPiW4XDajmgKDdf9pxJo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "368495804263-qum9j47ink02n4brr8hsud0sej47pnik.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "368495804263-mbcjqn07086iimphu29iahpetnsrm4jv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.anyChat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
